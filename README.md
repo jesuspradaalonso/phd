@@ -5,3 +5,5 @@ Following the principles of reproducible research, this repository contains code
 - **artificial_datasets:** Script to generate the artificial datasets employed in the thesis experiments.
 
 - **DGNM:** Python code to run experiments corresponding to DGNM models (Experiment II). 
+
+- **statistical_tests:** Python code to run statistical tests performed to validate the experiments carried out in the thesis. 
